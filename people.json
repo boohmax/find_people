@@ -1,0 +1,36 @@
+ [
+	{"name":"John",
+	"sex":"male",
+	"age" : 23,
+	"prof":"driver"},
+
+	{"name":"Scarlet",
+	"sex":"female",
+	"age" : 32,
+	"prof":"actor"},
+
+	{"name":"Kventin",
+	"sex":"male",
+	"age" : 57,
+	"prof":"editor"},
+
+	{"name":"Angela",
+	"sex":"female",
+	"age" : 66,
+	"prof":"politic"},
+
+	{"name":"Gendalf",
+	"sex":"male",
+	"age" : 70,
+	"prof":"wonder"},
+
+	{"name":"Masha",
+	"sex":"female",
+	"age" : 4,
+	"prof":"child"},
+
+	{"name":"Roman",
+	"sex":"male",
+	"prof":"engeener"}
+]
+
